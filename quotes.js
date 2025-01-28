@@ -4,6 +4,7 @@ let quoteIndex = Math.floor(Math.random() * quotes.length);
 console.log(quoteIndex);
 
 
+
 let i = 0;
 
 quotesElm.innerHTML = quotes[quoteIndex];
